@@ -1,0 +1,20 @@
+{
+  "name": "mtf-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "India Margin Trading Facility (MTF) Analytics Dashboard & Platform Architecture",
+  "scripts": {
+    "dev": "powershell -ExecutionPolicy Bypass -File serve.ps1",
+    "start": "powershell -ExecutionPolicy Bypass -File serve.ps1"
+  },
+  "keywords": [
+    "mtf",
+    "margin-trading",
+    "nse",
+    "bse",
+    "india-equities",
+    "analytics",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
